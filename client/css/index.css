@@ -1,0 +1,38 @@
+html, body
+{
+	height:100%;
+	box-sizing:border-box;
+	padding:0px;
+	margin:0px;
+}
+
+#thesaurus
+{
+	background-color:#CCC;
+	width:100%;
+	height:100%;
+}
+
+.wrong
+{
+	background-color:pink;
+}
+
+td, th{
+	padding:5px;
+	border: solid 1px gray;
+	width:100px;
+	height:35px;
+}
+
+.cell
+{
+	width:100%;
+	height:100%;
+}
+.nodisplay{
+	display:none;
+}
+.disabled{
+	
+}
